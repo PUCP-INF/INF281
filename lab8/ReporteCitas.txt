@@ -1,0 +1,132 @@
+                                        INSTITUTO DE SALUD SA
+====================================================================================================
+                                        PACIENTES ATENDIDOS POR EMERGENCIA
+----------------------------------------------------------------------------------------------------
+1) 13731806 Rony Gonzalo Valverde Berrocal
+2) 14956687 Alex Martin Vasquez Paz
+3) 24965193 Milena Cinthia Zarate Acuna
+4) 25121500 Edgar Munoz Vergel
+5) 6015699 Julio Vilcara Jugo
+6) 31176113 Walter Jolay Chumpitaz
+7) 31284904 Elia Yolanda Sedano Retamoso
+8) 35347567 Annie Montero Montero
+9) 6934113 Milagros Natalia Baca Camacho
+10) 7282858 Lourdes Diana Sueldo Martinez
+11) 40127069 Cesar Jaime Rodriguez Serrano
+12) 43704548 Ericka Victoria Justino Forzani
+13) 8308899 Zkenia Irma Chung Zuniga
+14) 50019279 Victor Edgar Garcia Astete
+15) 51873364 Johan Chavez Berrocal
+16) 2313890 Jesus Rafael Narvaez Castillo
+17) 55140606 Victoria Milagros Shirakawa Saona
+18) 8643376 Antonio Sueldo Ruiz
+19) 59561864 Gonzalo Vega Munoz
+20) 3640178 Richard Sandro Perez Farfan
+21) 65540456 Delicia Arca Aquino
+22) 6091742 Carlos Julian Prado Vergel
+23) 72973662 Maria Madeleine Solis Narvaez
+24) 77324146 Lourdes Sonia Soma Pinto
+25) 77440060 Martin Juvenal Villa Sedano
+26) 1647285 Maritza Carbajal Salamanca
+27) 85395219 Irma Lourdes Corrales Tsukazan
+28) 86836066 Alexander Zarate Perez
+29) 7522271 Ofelia Beatriz Montero Bolanos
+30) 90367684 Heli Coronel Chumpitaz
+31) 90972561 Humberto Alberto Vargas Guevara
+32) 1733306 Gustavo Alonso Del Castillo Mejia
+33) 3231760 Carmela Teresa Vega Vilcara
+34) 93282118 Evert Figueroa Collado
+35) 93939698 Enrique Jorge Durand Valverde
+36) 99774549 Rolando Solis Chung
+37) 99891737 Christian Paredes Patino
+====================================================================================================
+                                        PACIENTES ATENDIDOS POR URGENCIA
+----------------------------------------------------------------------------------------------------
+1) 20688048 Humberto Alfonso Amezquita Contreras
+2) 22679759 Francisco Arana Rondon
+3) 33647417 Wilmer Saenz Aranda
+4) 4417318 Delia Estefania Cabrera Moreno
+5) 34697743 Madeleine Wong Martel
+6) 35852072 Beatriz Henriquez Espino
+7) 36471787 Annie Lourdes Merel Salazar
+8) 36803222 Ofelia Carmen Mercado Caro
+9) 9335774 Victoria Fiorella Cuba Pomajambo
+10) 40730725 Janet Cinthia Aranda Minaya
+11) 41964357 Virginia Martha Salamanca Vega
+12) 45914393 Maria Heli Arroyo Gordillo
+13) 46489838 Yliana Flor Ortiz Guevara
+14) 49357767 Juan Prado Vera
+15) 1465986 Carola Tatiana Loyola Casanova
+16) 51642949 Magali Silvana Diaz Antezano
+17) 3420926 Milagros Vilcara Gavidia
+18) 54149342 Teresa Delia Antezano Segura
+19) 54815159 Annie Ofelia Asmad Acuna
+20) 56052414 Edilberto Jesus Mori Suarez
+21) 57112777 Emilio Emigdio Gonzales Aguirre
+22) 57182371 Edgard Henry Velasquez Huayanay
+23) 60300808 Jaime Julian Shirakawa Florian
+24) 1061535 Guillermo Edric Cabrera Canales
+25) 62287143 Cesar Adolfo Inga Flores
+26) 68114999 Williams Justino Cruz
+27) 68269451 Jorge Alfaro Ayala
+28) 528214 Raul Collado Villa
+29) 3642310 Alfonso Waldemar Cabello Lam
+30) 74635922 Delia Zarate Urbina
+31) 694546 Madeleine Yliana Miyake Merel
+32) 81539774 Alonso Florencio Coronado
+33) 86988155 Delia Lozada Forzani
+34) 89086443 Carmen Zamora Cabrera
+35) 93961840 Emigdio Francisco Escalante Espino
+36) 5019198 Felicita Erika Del Castillo Chung
+37) 95436102 Javier Edgard Landa Cabrera
+38) 95656771 Felicita Valentina Lozada Arguedas
+====================================================================================================
+                                        PACIENTES ATENDIDOS POR AMBULATORIA
+----------------------------------------------------------------------------------------------------
+1) 12484697 Angel Shirakawa Ortega
+2) 13633991 Alexander Portugal Raffo
+3) 15290194 David Edric Cerna Iparraguirre
+4) 17299012 Sandro Arturo Piscoya Lee
+5) 19528702 Luz Sofia Jauregui Bravo
+6) 371464 Felicita Villegas Leiva
+7) 20941063 Miguel Calixto Torres
+8) 22598563 Alonso Forzani Caro
+9) 25062013 Jair Arturo Mendoza Florencio
+10) 7709566 Jose Rolando Cerna Hijar
+11) 28048124 Delicia Norabuena Zegarra
+12) 28992638 Eloy Jaime Ortega Landeo
+13) 30246960 Madeleine Shirakawa Miranda
+14) 32538825 Maribel Vizcardo Sinche
+15) 34571095 Ines Sam Yallico
+16) 35606314 Rolando Castro Suarez
+17) 7653308 Cinthia Milena Zegarra Cabello
+18) 38639370 Johan Enrique Ayala Zevallos
+19) 40729422 Miguel Alex Landeo Estrada
+20) 3810566 Francisco Zimic Salas
+21) 5201670 Rocio Yolanda Acuna Yino
+22) 5007531 Surami Heli Preciado Pinto
+23) 59596317 Edward Reyes Tang
+24) 60543714 Valentina Rocio Aquino Toro
+25) 1741647 Valentina Paula Urbina Antezano
+26) 62126128 Javier Daniel Auris Zimic
+27) 64217731 Delicia Rosa Arca Leiva
+28) 65900901 Rosario Maribel Yep Zavaleta
+29) 65912822 Ronal Cortez Mercado
+30) 66039166 Ines Adria Escalante Rojas
+31) 68509985 Fiorella Erika Florencio Polo
+32) 69813995 Glenda Cabrera Mori
+33) 71422479 Alberto De La Haza Cabrera
+34) 72330000 Waldemar Edgard Durand Meza
+35) 74713744 Blanca Luz Acuna Ayllon
+36) 75100362 Alex Henriquez Portugal
+37) 7478682 Marina Natalia Garcia Inga
+38) 79100967 Wilver Alfonso Rivero Cortez
+39) 81005191 Estefania Zegarra Casanova
+40) 83933477 Rosario Tabori Arias
+41) 91187814 Virginia Irma Benavente Ayala
+42) 2275859 Roberto Infantes Hernandez
+43) 93882509 David Carlos Perez Antezano
+44) 94683380 Adria Sueldo Sedano
+45) 95062219 Lourdes Carmela Yallico Paredes
+46) 97601811 Giovana Mejia Zegarra
+47) 8205039 Teresa Teresa Martel Mercado
