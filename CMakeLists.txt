@@ -11,4 +11,7 @@ project(INF281)
 
 #add_subdirectory("${PROJECT_SOURCE_DIR}/201e2/p1" "ex/")
 #add_subdirectory("${PROJECT_SOURCE_DIR}/201e2/p2a" "ex/")
-add_subdirectory("${PROJECT_SOURCE_DIR}/201e2/p2b" "ex/")
+#add_subdirectory("${PROJECT_SOURCE_DIR}/201e2/p2b" "ex/")
+
+#add_subdirectory("${PROJECT_SOURCE_DIR}/202e2/p1" "ex/")
+add_subdirectory("${PROJECT_SOURCE_DIR}/202e2/p2a" "ex/")
